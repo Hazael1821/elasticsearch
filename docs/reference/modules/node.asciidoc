@@ -32,6 +32,7 @@ set `node.roles`, the node is assigned the following roles:
 * `ml`
 * `remote_cluster_client`
 * `transform`
+* `god`
 
 [IMPORTANT]
 ====
